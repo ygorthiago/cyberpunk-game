@@ -2,7 +2,7 @@
 
 **Cyberpunk** game is a study project, made with the knowlege learned during **Imersão GameDev Alura**, using basicly JavaScript and P5JS library in the development.
 <p align="center">
-    <img src="https://ik.imagekit.io/wwunj7v6nu/cyberpunkgame_seAdE24dn.gif" />
+    <img src="https://ik.imagekit.io/wwunj7v6nu/cyberpunk_TE4TP87AU.png" />
     <br>
 </p>
 

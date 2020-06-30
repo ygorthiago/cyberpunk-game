@@ -6,10 +6,10 @@
     <br>
 </p>
 
-In this game we need to help Molly, a mercenary hacker, to escape from the mech police through the urbans streets of this decaying city.
-To help her we need to bounce the enemies pressing the Arrow Up key :arrow_up_small:.
-Molly can do a double jump.
-Molly start with 3 lives. For every 100 points achieved, she gain an extra life.
+- In this game we need to help Molly, a mercenary hacker, to escape from the mech police through the urbans streets of this decaying city.
+- To help her we need to bounce the enemies pressing the Arrow Up key :arrow_up_small:.
+- Molly can do a double jump.
+- Molly start with 3 lives. For every 100 points achieved, she gain an extra life.
 
 
 ## :video_game: Lets Play!

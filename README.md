@@ -1,16 +1,19 @@
 # CYBERPUNK GAME
+
 **Cyberpunk** game is a study project, made with the knowlege learned during **Imersão GameDev Alura**, using basicly JavaScript and P5JS library in the development.
 <p align="center">
-    <img src="https://i.ibb.co/qxFgyQX/gameplay.gif" />
+    <img src="https://ik.imagekit.io/wwunj7v6nu/cyberpunkgame_seAdE24dn.gif" />
     <br>
 </p>
-Is this game we need to help Molly, a mercenary hacker, to escape from the mech police through the urbans streets of this decaying city.
+
+In this game we need to help Molly, a mercenary hacker, to escape from the mech police through the urbans streets of this decaying city.
 To help her we need to bounce the enemies pressing the Arrow Up key :arrow_up_small:.
 Molly can do a double jump.
 Molly start with 3 lives. For every 100 points achieved, she gain an extra life.
 
-## :video_game: Lets Play!
 
+## :video_game: Lets Play!
+- [Click Here][game]
 
 ## :computer: Technologies and Libraries
 This game project was developed with the following technologies:
@@ -33,3 +36,6 @@ To run this application, you'll need Git and LiveServer installed on your comput
 <h4 align="center">
     Made by <a href="https://www.linkedin.com/in/ygor-thiago-farias-1111aa196/" target="_blank">Ygor Thiago Farias </a>
 </h4>
+
+[game]: https://ygorthiago.github.io/cyberpunk-game/index.html
+

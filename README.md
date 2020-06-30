@@ -1,11 +1,9 @@
 # CYBERPUNK GAME
-<h1 align="center">
-    <img alt="Logo" src="https://i.ibb.co/qxFgyQX/gameplay.gif" />
-    <br>
-</h1>
-
 **Cyberpunk** game is a study project, made with the knowlege learned during **Imersão GameDev Alura**, using basicly JavaScript and P5JS library in the development.
-
+<p align="center">
+    <img src="https://i.ibb.co/qxFgyQX/gameplay.gif" />
+    <br>
+</p>
 Is this game we need to help Molly, a mercenary hacker, to escape from the mech police through the urbans streets of this decaying city.
 To help her we need to bounce the enemies pressing the Arrow Up key :arrow_up_small:.
 Molly can do a double jump.

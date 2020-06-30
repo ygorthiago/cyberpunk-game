@@ -1,0 +1,41 @@
+{
+"configurations": {
+  "maxLife": 5,
+  "initialLife": 3
+  },
+
+"map": [
+    {
+      "enemy": 1, 
+      "speed": 20
+    },
+    {
+      "enemy": 2, 
+      "speed": 20
+    },
+    {
+      "enemy": 0, 
+      "speed": 23
+    },
+    {
+      "enemy": 3, 
+      "speed": 24
+    },  
+    {
+      "enemy": 1, 
+      "speed": 26
+    },    
+    {
+      "enemy": 2, 
+      "speed": 20
+    },
+    {
+      "enemy": 1, 
+      "speed": 24
+    },
+    {
+      "enemy": 4, 
+      "speed": 30
+    }
+  ]
+}

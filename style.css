@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.botao-tela-inicial {
+  font-family: 'Orbitron', cursive;
+  padding: 1rem 1.25rem;
+  font-size: 1.5rem;
+  letter-spacing: .25rem;
+  box-shadow: 2px 2px 0px 1px #4a4c69;
+  text-transform: uppercase;
+  background-color: #7733ff;
+  border: none;
+  border-radius: .75rem;
+  color: #fff;
+}
+
+.botao-tela-inicial:hover {
+  background-color: #e1c500;
+  box-shadow: 2px 2px 0px 1px #b58a8a;
+}

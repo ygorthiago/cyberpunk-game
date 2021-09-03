@@ -34,7 +34,7 @@ To run this application, you'll need Git and LiveServer installed on your comput
 
 
 <h4 align="center">
-    Made by <a href="https://www.linkedin.com/in/ygor-thiago-farias-1111aa196/" target="_blank">Ygor Thiago Farias </a>
+    Made by <a href="https://www.linkedin.com/in/ygor-thiago-farias-1111aa196/" target="_blank">Ygor Thiago Farias</a>
 </h4>
 
 [game]: https://ygorthiago.github.io/cyberpunk-game/

@@ -1,6 +1,6 @@
 # CYBERPUNK GAME
 
-**Cyberpunk** game is a study project, using basicly JavaScript and P5JS library in the development.
+**Cyberpunk** game is a study project, using basically JavaScript and P5JS library in the development.
 <p align="center">
     <img src="https://ik.imagekit.io/wwunj7v6nu/cyberpunk_TE4TP87AU.png" />
     <br>
